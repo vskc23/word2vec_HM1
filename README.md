@@ -11,4 +11,4 @@ This repository contains:
 3) ipynb of google collab consisting the implementataion.
 4) The updated code with in the word2vec file using my comments.
 5) Added a picture of training as well
-6)Colab link: https://colab.research.google.com/drive/1_sLimzGwRH3OB7biQwx4elZESIbm4ODb?usp=sharing
+6) Colab link: https://colab.research.google.com/drive/1_sLimzGwRH3OB7biQwx4elZESIbm4ODb?usp=sharing
