@@ -10,5 +10,5 @@ This repository contains:
 2) An output file (similar_words_computataions) consisting of the computations of top 10 words matching with the words cat, she and like.
 3) ipynb of google collab consisting the implementataion.
 4) The updated code with in the word2vec file using my comments.
-
-Colab link: https://colab.research.google.com/drive/1_sLimzGwRH3OB7biQwx4elZESIbm4ODb?usp=sharing
+5) Added a picture of training as well
+6)Colab link: https://colab.research.google.com/drive/1_sLimzGwRH3OB7biQwx4elZESIbm4ODb?usp=sharing
