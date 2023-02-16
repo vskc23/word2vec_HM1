@@ -1,0 +1,63 @@
+make: Nothing to be done for 'all'.
+---------------------------------------------------------------------------------------------------
+Homework-1 - Training word2vec with large corpus of data
+And then computing the top-10 most similar words for query words “cat”, “she”, “like”
+---------------------------------------------------------------------------------------------------
+Starting training using file /content/drive/MyDrive/training-data/input.txt
+Vocab size: 552403
+Words in train file: 796188544
+Alpha: 0.000005  Progress: 100.00%  Words/thread/sec: 117.73k  
+real	50m31.652s
+user	564m11.713s
+sys	0m56.212s
+Enter three words (EXIT to break): cat she like
+
+Word: cat  Position in vocabulary: 6191
+
+Word: she  Position in vocabulary: 80
+
+Word: like  Position in vocabulary: 103
+
+                                              Word              Distance
+------------------------------------------------------------------------
+                                            always		0.504831
+                                            really		0.495099
+                                       differently		0.482401
+                                          actually		0.473537
+                                     uncomfortable		0.472907
+                                              okay		0.451788
+                                             never		0.444541
+                                             crazy		0.443532
+                                             silly		0.442315
+                                             liked		0.441133
+                                            anyway		0.439945
+                                         Sometimes		0.438366
+                                                 I		0.434589
+                                                he		0.433171
+                                            simply		0.429686
+                                           frankly		0.425535
+                                         obviously		0.424904
+                                          honestly		0.424527
+                                                do		0.420798
+                                             weird		0.416475
+                                         precisely		0.416179
+                                           askance		0.416002
+                                          nowadays		0.415248
+                                                so		0.414059
+                                             wrong		0.413569
+                                            boring		0.412396
+                                           anymore		0.408198
+                                        liberating		0.408036
+                                        ridiculous		0.407911
+                                           exactly		0.407335
+                                              nice		0.402403
+                                               She		0.397903
+                                          horrible		0.397880
+                                           awkward		0.397457
+                                              that		0.395575
+                                    self-conscious		0.394981
+                                       interesting		0.394023
+                                       comfortable		0.393191
+                                        unfeminine		0.392283
+                                               And		0.391842
+Enter three words (EXIT to break): EXIT
